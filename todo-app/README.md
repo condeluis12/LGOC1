@@ -8,4 +8,4 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 - Eliminar tareas.
 
 ## Tecnologías
-- Java SpringBoot
+- Java SpringBootCorrige el error en la validación del formulario de registro
